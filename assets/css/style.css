@@ -1483,3 +1483,14 @@ footer .credits a {
   color: #fff;
 }
 
+
+.img-fluid {
+  border-radius: 5%;
+  /* You can adjust the percentage to control the roundness */
+  /* display: block;
+  margin: auto; */
+  /* width: 100%;
+  height: auto; */
+  display: block;
+  margin: 0 auto;
+}

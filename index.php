@@ -641,17 +641,39 @@ Mobile App Developer with over 4 years of experience in developing, testing, and
             </div>
           </div>
         </div>
-        <div class="row">
-                 <div class="col-md-4">
+
+
+  
+
+    <div class="row">
+
+        <div class="col-md-4">
+            <div class="card card-blog">
+              <div class="card-img">
+                <a href="truckchat.html"><img src="assets/im/truckchat/truckchat.png" alt="" style="width: 590px; height: 240px;" class="img-fluid"></a>
+              </div>
+              <div class="card-body">
+                <div class="card-category-box">
+                  <div class="card-category">
+                    <h6 class="category">Truck Chat</h6>
+                  </div>
+                </div>
+               
+              </div>
+             
+            </div>
+          </div>
+
+
+        <div class="col-md-4">
+            
             <div class="card card-blog">
               <div class="card-img">
                 <a href="tiffin.html"><img src="assets/im/tiffinbox/bt.png" alt="" class="img-fluid" style="width: 590px; height: 240px;"></a>
               </div>
               
-             <div class="card-body">
-      <!--<a href="https://playstore-link.com"><img src="assets/publish/pt.png" style="width: 130px; height: 50px;" alt=""></a>-->
-      <!--<a href="https://playstore-link.com"><img src="assets/publish/appstore.png" style="width: 130px; height: 50px;" alt=""></a>-->
-  <div class="card-category-box">
+            <div class="card-body">
+    <div class="card-category-box">
 
     <div class="card-category">
 
@@ -664,6 +686,9 @@ Mobile App Developer with over 4 years of experience in developing, testing, and
             
             </div>
           </div>
+
+
+
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
@@ -681,7 +706,7 @@ Mobile App Developer with over 4 years of experience in developing, testing, and
             </div>
           </div>
      
-          <div class="col-md-4">
+          <!-- <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
                 <a href="quiz.html"><img src="assets/im/quiz/q.png" style="width: 590px; height: 240px;" alt="" class="img-fluid"></a>
@@ -696,7 +721,7 @@ Mobile App Developer with over 4 years of experience in developing, testing, and
               </div>
              
             </div>
-          </div>
+          </div> -->
 
           <div class="col-md-4">
             <div class="card card-blog">
@@ -714,6 +739,8 @@ Mobile App Developer with over 4 years of experience in developing, testing, and
              
             </div>
           </div>
+
+
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
